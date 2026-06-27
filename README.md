@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Om Prakash Sharma
 
-<!--
-**iamomsharma/iamomsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Flutter & Android Developer
 
-Here are some ideas to get you started:
+I have 5.6+ years of experience building Android and Flutter applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+- Flutter
+- Dart
+- Kotlin
+- Firebase
+- Hive
+- Dio
+- REST API
+- Stacked (MVVM)
+- Clean Architecture
+
+### 📱 Featured Project
+
+🛍 Flutter E-Commerce App
+
+- Firebase Authentication
+- Stacked MVVM
+- Hive Local Storage
+- Dio API Integration
+- Wishlist
+- Cart
+- Offline Support
+
+### 📫 Connect with me
+
+- LinkedIn: https://linkedin.com/in/om-prakash-sharma-003934115
+- Email: your-email@example.com
