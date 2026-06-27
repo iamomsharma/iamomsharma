@@ -31,4 +31,4 @@ I have 5.6+ years of experience building Android and Flutter applications.
 ### 📫 Connect with me
 
 - LinkedIn: https://linkedin.com/in/om-prakash-sharma-003934115
-- Email: your-email@example.com
+- Email: omsharma9392@gmail.com
